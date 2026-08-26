@@ -1,0 +1,9 @@
+[package]
+name = "scratchpad"
+version = "0.1.4"
+entrypoint = "template.typ"
+exclude = [".vscode/**/*", "**/*.pdf", "**/*.html"]
+
+[template]
+path = "template"
+entrypoint = "index.typ"

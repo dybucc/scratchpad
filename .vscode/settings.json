@@ -1,0 +1,6 @@
+{
+    "tinymist.exportPdf": "never",
+    "tinymist.typstExtraArgs": [
+        "--features=html",
+    ]
+}
