@@ -1,6 +1,6 @@
 [package]
 name = "scratchpad"
-version = "0.1.4"
+version = "0.1.5"
 entrypoint = "template.typ"
 exclude = [".vscode/**/*", "**/*.pdf", "**/*.html"]
 
