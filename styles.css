@@ -1,6 +1,6 @@
 body {
-    color: #fff;
-    background: #000;
+    color: #000;
+    /* background: #000; */
     margin: 40px auto;
     max-width: 650px;
     line-height: 1.4;
@@ -23,7 +23,7 @@ pre,
 blockquote,
 .signature {
     padding: 1em;
-    background: #444;
+    background: #bbb;
 }
 
 blockquote,
@@ -67,7 +67,7 @@ aside {
 }
 
 code {
-    background-color: #444;
+    background-color: #bbb;
     font-size: 80%;
 }
 
